@@ -13,3 +13,7 @@
     text-transform: uppercase;
     border: 1px solid gray;
 }
+
+.active {
+    text-decoration: underline;
+}
