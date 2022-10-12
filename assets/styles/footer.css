@@ -1,0 +1,12 @@
+footer p {
+    font-family: Roboto, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+footer a {
+    color: black;
+}
